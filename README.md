@@ -1,6 +1,6 @@
 # MIDTERM074
 
-Customer Loyalty Points with RedempƟon
+Customer Loyalty Points with Redemption:
 DescripƟon:
 
 Implement a system for tracking customer loyalty points.
